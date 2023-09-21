@@ -1,0 +1,11 @@
+{
+  "name": "dockerfile",
+  "version": "1.0.0",
+  "description": "Computacao na Nuvem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
