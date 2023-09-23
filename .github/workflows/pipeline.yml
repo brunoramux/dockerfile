@@ -58,7 +58,7 @@ jobs:
             with:
               python-version: '3.10'
           - name: 'Install pip and awsebcli'
-          - run: |
+            run: |
               sudo wget https://bootstrap.pypa.io/get-pip.py
               sudo python3 ./get-pip.py
               sudo pip install "pyyaml<5.4"
